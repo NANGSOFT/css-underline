@@ -1,5 +1,5 @@
 ## CSS美化a:hover的underline
-众所周知，如果给a:hover添加下划线(underline)特效会非常生硬<br>
+众所周知，如果给a:hover添加下划线(underline)特效会展示的非常生硬<br>
 此项目为underline添加了一个展开特效。
 
 ## 文件说明
